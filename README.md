@@ -20,7 +20,7 @@ O projeto visa desenvolver um **Agente Inteligente** em formato de rApp para a a
 ### Escopo
 
 * **Principais Características:** O projeto se concentrará no desenvolvimento da lógica do Agente Inteligente (o núcleo do rApp) e na simulação da sua interface de entrada (intenção) e saída (comando para o RIC). O Agente considerará a carga de tráfego simulada (do free5gc mockado) como o principal fator de decisão.
-* **Limitações:** O projeto não incluirá a implementação de uma rede 6G física. A integração com o RIC será via ambiente **simulado com o free5gc** para o envio de comandos de "ajuste de energia". O foco não será na otimização da rede em si, mas na viabilidade da tradução da intenção.
+* **Limitações:** A integração com o RIC será via ambiente **simulado com o free5gc** para o envio de comandos de "ajuste de energia". O foco não será na otimização da rede em si, mas na viabilidade da tradução da intenção.
 
 ---
 
