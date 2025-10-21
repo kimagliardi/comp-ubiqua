@@ -84,7 +84,7 @@ O projeto visa desenvolver um **Agente Inteligente** em formato de rApp para a a
 | :--- | :--- | :--- | :--- |
 | **1. Planejamento e Design** | Definição final das Intenções de Energia e Ações de Comando de RAN. Estrutura do relatório e ambiente Docker inicial pronto. | 1 semana | 27 de Outubro |
 | **2. Implementação da Infraestrutura** | Código base do Microserviço (API) pronto e integração simulada (Mocks) com o RIC. | 1,5 semana | 07 de Novembro |
-| **3. Implementação da Lógica Central** | Módulo de Tradução da Intenção (NLP/Regras) e *Tools* do Agente implementados e testados. **Entrega:** Protótipo funcional (Versão Beta). | 2,5 semanas | 28 de Novembro |
+| **3. Implementação da Lógica Central** | Módulo de Tradução da Intenção (Regras) e *Tools* do Agente implementados e testados. **Entrega:** Protótipo funcional (Versão Beta). | 2,5 semanas | 28 de Novembro |
 | **4. Testes, Avaliação e Documentação** | Execução completa dos testes e coleta de dados de desempenho. Elaboração do Relatório Final e Apresentação. **Entrega:** Versão Final do código. | 2 semanas | 12 de Dezembro |
 
 ---
