@@ -6,7 +6,7 @@
 
 ### Visão Geral
 
-O projeto visa desenvolver um **Agente Inteligente** em formato de xApp/rApp para a arquitetura **O-RAN (Open Radio Access Network)**, enquadrando-se no contexto de **Computação Móvel e Ubíqua** ao gerenciar e otimizar recursos de rede de acesso dinamicamente. O software endereçará a necessidade de automação cognitiva no core da rede de acesso, resolvendo a dificuldade de traduzir **intenções de alto nível** (análise de métricas de serviço / prompts de usuário) em **comandos de rede de baixo nível**.
+O projeto visa desenvolver um **Agente Inteligente** em formato de xApp/rApp para a arquitetura **O-RAN (Open Radio Access Network)**, enquadrando-se no contexto de **Computação Móvel e Ubíqua** ao gerenciar e otimizar recursos de rede de acesso dinamicamente. O software endereçará a necessidade de automação "cognitiva" no core da rede de acesso, resolvendo a dificuldade de traduzir **intenções de alto nível** (análise de métricas de serviço / prompts de usuário) em **comandos de rede de baixo nível**.
 
 ### Objetivos
 
@@ -30,7 +30,7 @@ O projeto visa desenvolver um **Agente Inteligente** em formato de xApp/rApp par
 
 * **Modelo:** **Microserviço** (simulando uma xApp ou rApp no RIC).
 * **Padrão de Design:** Padrão de Agente com foco no processamento de entrada e decisão.
-* **Tecnologias:** O agente será desenvolvido em [PREENCHER: *ex: Python*] devido à sua popularidade em microsserviços e bibliotecas de IA/NLP.
+* **Tecnologias:** O agente será desenvolvido em Python devido à sua popularidade de bibliotecas de IA e frameworks para a construção de agentes (Ex: SmolAgents e LangChain).
 
 ### Interfaces e Interação com o Usuário
 
