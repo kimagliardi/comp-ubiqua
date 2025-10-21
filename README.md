@@ -65,7 +65,7 @@ O projeto visa desenvolver um **Agente Inteligente** em formato de rApp para a a
 ### Ferramentas de Avaliação
 
 * **Testes de Latência:** Utilização de bibliotecas de temporização (ex: `time` ou `datetime` em Python) integradas ao código para medir o processamento interno. (Prometheus)
-* **Profiling:** Uso de ferramentas nativas da linguagem (ex: *cProfile* em Python) para medir o uso de CPU e memória do Agente. (Prometheus)
+* **Profiling:** Uso de ferramentas nativas da linguagem / OpenTelemetry para medir a performance do Agente. (Prometheus)
 * **Testes em Ambiente Simulador:** Execução em ambiente Docker e testes de aceitação (Testes de Sistema) contra a interface simulada do RIC.
 
 ### Plano de Testes
