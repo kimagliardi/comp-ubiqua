@@ -6,7 +6,7 @@
 
 ### Visão Geral
 
-O projeto visa desenvolver um **Agente Inteligente** em formato de rApp para a arquitetura **O-RAN (Open Radio Access Network)**, enquadrando-se no contexto de **Computação Móvel e Ubíqua** ao gerenciar e otimizar recursos de rede de acesso dinamicamente. O software endereçará a necessidade de automação "cognitiva" no core da rede de acesso, resolvendo a dificuldade de traduzir **intenções de alto nível** (como "Reduzir o consumo de energia sem afetar a latência") em políticas de gerenciamento de energia.
+O projeto visa desenvolver um **Agente Inteligente** em formato de rApp para a arquitetura **O-RAN (Open Radio Access Network)**, enquadrando-se no contexto de **Computação Móvel e Ubíqua** ao gerenciar e otimizar recursos de rede de acesso dinamicamente. O software endereçará a necessidade de automação "cognitiva" no core da rede de acesso, resolvendo a dificuldade de traduzir **intenções de alto nível** (como "Utilizar perfil de baixo consumo de energia") em políticas de gerenciamento de energia.
 
 ### Objetivos
 
